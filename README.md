@@ -31,9 +31,9 @@ We initially built the HTML and then slightly formatted the CSS to have a basic 
 # Project Links
 
 Deployed Webpage:
-[https://kiira2125.github.io/StarGazer]
+![StarGazer][https://camilo-arango.github.io/StarGazer/]
 
 GitHub Repository:
-[https://github.com/kiira2125/StarGazer]
+![Github][https://github.com/Camilo-Arango/StarGazer]
 
 
